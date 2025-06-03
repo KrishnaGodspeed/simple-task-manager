@@ -1,6 +1,6 @@
 # Simple Task Manager API
 
-This project implements a basic RESTful API for managing tasks. It allows users to create, retrieve, update, and delete tasks.
+This project implements a basic RESTful API for managing tasks. It allows users to create, retrieve, update, and delete tasks. The code in this project is deliberately riddled with errors. This project is used as a test for Saarthi Automated Code Review Mode.
 
 ## Features
 - Create a new task with a title, description, and due date.
